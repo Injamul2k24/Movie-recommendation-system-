@@ -15,7 +15,7 @@
 <p>Clone the repository to your local machine.</p>
 <p>Install the required dependencies using pip install -r requirements.txt.</p>
 <p>Run the Streamlit app using the command streamlit run app.py.</p>
-<p>Open your browser and go to http://localhost:8501 to interact with the recommendation system.</p>
+<p>Open your browser and go to http://localhost:8888/tree to interact with the recommendation system.</p>
 
 <br>
 <h3>Dataset</h3>
